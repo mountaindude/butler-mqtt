@@ -1,0 +1,10 @@
+{
+  "Butler-MQTT": {
+    "mqttConfig": {
+      "brokerIP": "<IP of MQTT server>"
+     },
+    "restServerConfig": {
+      "serverPort": 8081
+    }
+  }
+}

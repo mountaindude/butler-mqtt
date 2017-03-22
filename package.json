@@ -1,0 +1,30 @@
+{
+  "name": "butler-mqtt",
+  "version": "1.0.0",
+  "description": "Stripped version of Butler, only including the REST-to-MQTT bridge",
+  "main": "butler-mqtt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mountaindude/butler-mqtt.git"
+  },
+  "keywords": [
+    "butler",
+    "mqtt",
+    "nodejs",
+    "qliksense"
+  ],
+  "author": "Göran Sander",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mountaindude/butler-mqtt/issues"
+  },
+  "homepage": "https://github.com/mountaindude/butler-mqtt#readme",
+  "dependencies": {
+    "config": "^1.25.1",
+    "mqtt": "^2.5.0",
+    "restify": "^4.3.0"
+  }
+}
