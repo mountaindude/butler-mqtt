@@ -1,0 +1,30 @@
+
+
+Sub ButlerInit
+    // Initialize mapping table needed for URL encoding
+	URL_EncodingReferenceMap:
+	Mapping LOAD   
+		Replace([Character], 'space', ' ') as ASCII_Character,
+		//     Text([From Windows-1252]) as URL_encoding,   
+		Text([From UTF-8]) as URL_encoding
+	FROM  
+	[http://www.w3schools.com/tags/ref_urlencode.asp]  
+	(html, utf8, embedded labels, table is @1);  
+end sub
+
+
+Sub PostToMQTT(vTopic, vMessage)
+	let vTopic = MapSubstring('URL_EncodingReferenceMap', '$(vTopic)');
+	let vMessage = MapSubstring('URL_EncodingReferenceMap', '$(vMessage)');
+
+	//trace $(vTopic);
+	//trace $(vMessage);
+
+	tmpMQTT:
+	LOAD
+		*
+	FROM [http://localhost:8081/v2/mqttPublishMessage?topic=$(vTopic)&message=$(vMessage)]
+	(txt, codepage is 1252, embedded labels, delimiter is '\t', msq);
+
+	drop table tmpMQTT;
+end sub

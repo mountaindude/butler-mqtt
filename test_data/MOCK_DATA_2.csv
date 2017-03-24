@@ -1,0 +1,1001 @@
+date,country,product,sales
+2016-06-22,France,shirt,46
+2016-07-21,Sweden,hat,17
+2016-06-01,Sweden,shoe,19
+2016-07-09,Sweden,hat,65
+2016-08-30,Sweden,jacket,25
+2016-03-16,United States,hat,55
+2017-03-06,France,shirt,97
+2016-03-08,France,hat,32
+2016-08-19,France,hat,11
+2016-08-14,United States,shoe,58
+2016-10-13,Sweden,hat,2
+2016-09-06,United States,jacket,77
+2016-09-27,Sweden,shoe,11
+2017-02-14,France,hat,77
+2016-09-13,France,hat,77
+2016-03-12,Sweden,hat,1
+2016-11-22,United States,shoe,59
+2016-03-31,Sweden,shoe,90
+2016-10-09,Sweden,jacket,34
+2016-05-18,United States,shirt,18
+2016-11-07,Sweden,shirt,21
+2016-12-05,United States,shirt,79
+2017-03-04,France,hat,39
+2016-12-23,United States,jacket,23
+2016-11-02,France,shoe,85
+2016-04-19,France,hat,40
+2016-04-08,Sweden,shirt,1
+2016-08-24,France,hat,10
+2016-08-14,United States,shirt,60
+2016-08-25,United States,shirt,65
+2016-04-18,Sweden,shoe,32
+2016-09-10,France,jacket,49
+2016-07-14,Sweden,shirt,16
+2016-05-24,France,jacket,3
+2016-10-29,United States,jacket,34
+2016-06-15,United States,shoe,5
+2017-01-10,United States,jacket,98
+2016-03-17,France,shoe,14
+2016-09-19,France,jacket,29
+2017-01-29,Sweden,shoe,22
+2016-11-10,Sweden,shoe,94
+2016-07-15,France,shirt,99
+2016-07-08,Sweden,hat,56
+2017-02-22,Sweden,shoe,12
+2016-03-14,France,jacket,62
+2016-06-25,Sweden,shirt,34
+2016-08-06,France,shirt,17
+2017-02-23,Sweden,shirt,49
+2016-09-19,United States,hat,75
+2016-04-24,United States,hat,72
+2017-01-10,France,shirt,63
+2016-07-28,Sweden,hat,11
+2017-01-07,Sweden,jacket,55
+2016-04-07,United States,hat,74
+2016-06-28,France,shirt,39
+2016-08-11,Sweden,shoe,2
+2016-11-16,United States,shirt,61
+2016-05-10,Sweden,shoe,60
+2016-09-05,United States,shoe,93
+2016-04-08,France,shirt,67
+2017-01-26,France,hat,33
+2016-03-19,Sweden,shirt,30
+2017-03-06,France,shirt,94
+2016-07-21,France,jacket,95
+2016-11-30,United States,shoe,27
+2016-08-07,United States,jacket,36
+2016-04-25,France,hat,30
+2016-03-24,United States,hat,90
+2016-10-04,France,hat,6
+2016-07-11,France,jacket,46
+2016-04-23,United States,hat,84
+2016-08-23,Sweden,jacket,89
+2016-08-16,Sweden,shoe,3
+2016-08-27,United States,jacket,63
+2016-11-08,Sweden,jacket,79
+2017-01-10,United States,shirt,77
+2016-08-15,Sweden,shoe,39
+2017-02-23,United States,hat,8
+2016-04-24,France,shoe,47
+2016-11-16,United States,shirt,25
+2016-07-06,United States,hat,77
+2016-04-26,United States,hat,2
+2016-07-22,France,shirt,17
+2016-09-27,Sweden,hat,87
+2016-11-17,Sweden,shirt,99
+2016-05-16,France,hat,30
+2016-04-30,United States,shirt,82
+2016-12-25,France,shirt,69
+2016-08-27,France,shirt,6
+2016-07-04,Sweden,shirt,41
+2016-03-22,United States,jacket,23
+2016-05-05,France,shirt,17
+2016-12-18,Sweden,shoe,100
+2017-01-06,United States,shirt,31
+2016-08-29,United States,shirt,51
+2016-09-02,Sweden,jacket,46
+2016-12-16,United States,jacket,48
+2016-03-14,United States,hat,1
+2016-06-04,United States,jacket,62
+2016-05-30,Sweden,shoe,99
+2017-02-05,Sweden,jacket,87
+2016-08-01,United States,shoe,100
+2016-10-07,United States,hat,42
+2016-12-01,United States,jacket,3
+2016-07-03,United States,shirt,27
+2016-04-30,United States,jacket,2
+2017-02-06,Sweden,shoe,38
+2016-12-06,United States,hat,84
+2016-04-24,France,shoe,87
+2016-12-02,France,shirt,64
+2016-12-12,United States,jacket,97
+2016-12-15,France,shoe,62
+2016-12-10,France,hat,43
+2016-08-16,United States,shirt,67
+2017-01-18,United States,shirt,96
+2016-08-07,United States,shoe,74
+2016-07-21,Sweden,shirt,85
+2016-03-09,Sweden,shoe,44
+2016-06-05,France,jacket,29
+2016-05-05,Sweden,hat,46
+2017-01-20,United States,shirt,61
+2016-06-18,France,shirt,48
+2016-11-01,France,shirt,94
+2017-01-19,France,jacket,54
+2016-12-23,Sweden,shoe,79
+2016-09-25,France,jacket,49
+2016-03-19,France,shoe,93
+2016-04-30,France,hat,10
+2017-02-18,France,jacket,59
+2016-06-02,Sweden,jacket,25
+2016-07-14,United States,hat,79
+2016-08-28,France,shirt,31
+2016-07-10,United States,shirt,23
+2016-08-06,United States,jacket,41
+2016-12-30,France,hat,56
+2016-12-14,France,shoe,81
+2016-12-23,Sweden,shoe,3
+2016-11-30,France,shoe,65
+2016-07-03,Sweden,shirt,80
+2016-10-26,France,hat,80
+2016-05-24,France,hat,70
+2016-06-24,France,jacket,44
+2016-07-20,Sweden,shoe,69
+2016-08-17,Sweden,shirt,19
+2016-11-15,Sweden,shirt,28
+2016-07-28,United States,hat,13
+2016-12-27,France,shoe,43
+2016-08-10,United States,shoe,69
+2016-07-02,Sweden,jacket,16
+2016-12-02,France,hat,23
+2016-09-07,Sweden,shirt,54
+2016-07-11,France,shoe,35
+2016-11-08,Sweden,hat,85
+2017-01-23,Sweden,jacket,68
+2017-01-12,United States,shirt,20
+2016-11-26,Sweden,shoe,85
+2016-10-23,United States,shirt,11
+2016-05-23,France,hat,34
+2017-03-06,United States,shirt,40
+2017-01-11,United States,hat,91
+2016-10-12,France,jacket,28
+2016-10-03,France,shirt,50
+2016-12-06,France,jacket,65
+2016-10-28,France,jacket,57
+2017-02-11,United States,jacket,74
+2016-12-20,Sweden,shirt,37
+2016-10-14,Sweden,hat,17
+2016-08-26,France,jacket,80
+2016-11-04,United States,jacket,12
+2016-06-02,United States,hat,67
+2016-12-11,France,jacket,5
+2016-08-22,Sweden,jacket,43
+2016-05-12,United States,shoe,84
+2016-04-11,Sweden,jacket,86
+2016-11-19,Sweden,shoe,97
+2016-06-22,France,shoe,55
+2016-12-31,France,shirt,77
+2016-12-13,United States,shirt,74
+2016-08-07,United States,jacket,66
+2016-06-07,United States,hat,26
+2017-02-22,United States,hat,60
+2016-10-12,France,shirt,67
+2016-10-19,France,hat,55
+2016-10-28,Sweden,jacket,18
+2016-05-21,United States,hat,70
+2016-10-13,United States,shirt,41
+2016-07-16,Sweden,shoe,76
+2016-05-09,Sweden,shirt,95
+2016-10-24,Sweden,jacket,20
+2016-05-22,United States,hat,86
+2016-10-04,France,shirt,57
+2016-04-07,United States,shoe,91
+2017-02-01,Sweden,hat,82
+2016-08-19,France,shirt,15
+2016-03-15,United States,shoe,22
+2016-04-26,Sweden,shoe,17
+2016-11-07,France,jacket,31
+2017-02-12,France,hat,78
+2016-03-11,France,shoe,31
+2016-09-08,Sweden,shirt,75
+2016-09-06,Sweden,hat,80
+2016-06-28,Sweden,hat,10
+2016-10-15,United States,shirt,17
+2016-08-14,France,hat,11
+2016-05-20,France,hat,11
+2016-11-03,United States,shoe,70
+2017-01-12,Sweden,shoe,66
+2016-08-19,France,shirt,47
+2016-07-28,France,shirt,58
+2016-10-05,France,shoe,44
+2016-03-17,France,shoe,92
+2017-03-03,Sweden,hat,44
+2016-05-10,France,hat,66
+2017-01-21,United States,hat,87
+2016-07-17,France,shirt,46
+2017-02-20,France,jacket,4
+2016-04-21,Sweden,hat,58
+2016-03-26,Sweden,hat,39
+2016-11-19,France,jacket,74
+2017-02-20,United States,hat,40
+2016-04-07,France,jacket,58
+2016-11-10,France,jacket,49
+2017-01-04,United States,shoe,82
+2016-12-30,Sweden,jacket,46
+2017-01-08,United States,shirt,69
+2016-06-19,Sweden,jacket,94
+2017-02-15,Sweden,shoe,86
+2016-05-11,Sweden,hat,35
+2016-05-31,France,jacket,100
+2016-05-04,United States,jacket,54
+2016-05-09,Sweden,shoe,74
+2016-10-15,Sweden,jacket,49
+2016-07-25,United States,hat,47
+2016-12-31,United States,hat,76
+2017-02-05,Sweden,shoe,37
+2016-05-31,United States,hat,55
+2016-03-09,France,jacket,71
+2016-03-09,Sweden,jacket,41
+2016-11-26,Sweden,hat,99
+2016-12-06,United States,jacket,90
+2016-08-29,France,shoe,87
+2016-03-24,United States,hat,51
+2016-05-28,Sweden,shoe,68
+2016-11-30,France,hat,48
+2016-09-16,Sweden,jacket,100
+2016-05-31,France,shoe,18
+2017-01-05,Sweden,hat,97
+2016-07-24,France,jacket,5
+2016-06-04,Sweden,shirt,95
+2016-04-04,Sweden,shirt,53
+2016-10-28,United States,jacket,18
+2016-04-05,Sweden,hat,17
+2016-12-11,United States,jacket,85
+2016-12-01,Sweden,shoe,49
+2016-03-18,Sweden,jacket,65
+2016-12-10,France,hat,29
+2017-03-05,Sweden,jacket,92
+2016-09-09,United States,shoe,51
+2016-10-19,France,shirt,76
+2016-07-27,United States,jacket,12
+2016-10-27,France,jacket,27
+2016-04-21,United States,hat,5
+2016-07-28,Sweden,shoe,30
+2016-11-16,France,shoe,44
+2016-10-04,France,jacket,26
+2016-11-22,United States,shirt,89
+2017-01-17,Sweden,jacket,90
+2017-01-19,United States,hat,47
+2016-08-16,Sweden,shoe,39
+2016-06-05,Sweden,shirt,70
+2016-06-12,United States,hat,56
+2017-01-12,France,jacket,82
+2017-02-23,Sweden,jacket,48
+2017-02-24,France,shoe,6
+2016-11-10,France,shirt,36
+2017-02-15,France,shoe,4
+2016-12-16,United States,jacket,87
+2017-02-15,France,jacket,64
+2016-10-30,United States,jacket,70
+2016-07-19,Sweden,hat,66
+2016-11-14,France,jacket,75
+2017-03-04,United States,hat,41
+2016-07-13,United States,shirt,63
+2016-11-03,Sweden,jacket,76
+2016-07-13,Sweden,shirt,49
+2016-10-08,France,shirt,59
+2016-05-15,Sweden,hat,13
+2016-03-22,United States,jacket,60
+2016-06-13,Sweden,shoe,78
+2016-03-21,Sweden,shirt,12
+2017-03-02,France,shoe,8
+2016-06-19,France,shirt,44
+2016-10-28,Sweden,shirt,22
+2017-01-14,France,hat,68
+2016-12-29,United States,shirt,19
+2016-11-12,France,hat,73
+2017-01-14,Sweden,shirt,73
+2016-05-18,Sweden,jacket,62
+2017-01-22,United States,shoe,75
+2016-07-17,United States,shoe,81
+2017-01-22,France,hat,9
+2016-06-12,United States,shirt,4
+2016-11-21,United States,shirt,83
+2016-09-20,Sweden,hat,30
+2016-03-22,France,hat,84
+2016-08-20,France,shoe,17
+2016-11-07,United States,hat,91
+2016-07-17,Sweden,shirt,82
+2017-01-28,Sweden,shoe,93
+2016-07-11,Sweden,jacket,32
+2016-09-10,France,jacket,40
+2017-02-06,France,jacket,7
+2016-10-22,France,shoe,50
+2017-01-12,France,shoe,38
+2016-09-03,Sweden,hat,91
+2016-11-01,United States,jacket,86
+2016-11-02,France,hat,50
+2017-02-07,Sweden,shirt,72
+2016-06-25,France,shirt,50
+2016-04-21,France,jacket,84
+2016-10-01,France,hat,81
+2016-11-08,Sweden,jacket,93
+2016-08-06,France,shirt,31
+2016-04-25,Sweden,hat,73
+2017-02-19,Sweden,shirt,31
+2016-08-20,United States,shoe,41
+2016-04-11,Sweden,shoe,41
+2016-10-14,Sweden,shirt,93
+2016-11-03,Sweden,hat,9
+2017-01-09,France,hat,79
+2016-12-01,France,shoe,40
+2016-12-11,United States,shirt,60
+2016-07-06,Sweden,jacket,40
+2016-03-29,France,shirt,86
+2017-02-10,United States,jacket,20
+2016-05-15,United States,shoe,52
+2017-03-03,France,jacket,28
+2016-08-03,Sweden,shoe,94
+2016-03-26,Sweden,shirt,82
+2016-12-06,Sweden,jacket,78
+2016-07-08,Sweden,shoe,24
+2016-08-05,Sweden,hat,93
+2017-02-23,France,shirt,22
+2016-07-19,Sweden,shoe,6
+2017-01-16,France,hat,65
+2016-07-25,Sweden,jacket,54
+2016-06-12,United States,hat,34
+2017-02-05,Sweden,shoe,60
+2017-02-18,United States,shoe,98
+2016-03-26,United States,hat,26
+2017-02-04,France,shoe,100
+2016-11-08,Sweden,shirt,56
+2017-02-01,United States,hat,6
+2016-11-18,Sweden,hat,84
+2016-05-26,France,shoe,47
+2016-10-05,Sweden,hat,66
+2016-12-26,United States,hat,86
+2016-12-12,Sweden,shoe,61
+2016-06-07,United States,shirt,36
+2016-08-08,Sweden,shirt,41
+2016-05-25,Sweden,shirt,52
+2016-09-12,Sweden,shirt,3
+2016-06-01,United States,shoe,52
+2016-10-31,Sweden,shoe,73
+2016-08-06,United States,shoe,13
+2016-08-29,United States,hat,89
+2016-09-25,United States,shirt,62
+2016-05-04,France,shoe,38
+2016-05-09,Sweden,jacket,18
+2016-07-02,France,shirt,3
+2016-04-11,France,shoe,69
+2016-05-21,Sweden,shoe,3
+2016-09-27,Sweden,shoe,68
+2016-08-07,France,shoe,40
+2016-04-13,United States,shoe,88
+2016-04-29,United States,jacket,2
+2016-10-09,United States,shirt,1
+2016-07-04,Sweden,shoe,91
+2016-12-05,United States,shirt,46
+2016-06-21,Sweden,hat,48
+2016-11-04,Sweden,shirt,87
+2016-08-29,United States,shoe,77
+2017-01-23,Sweden,shoe,91
+2016-06-14,United States,shirt,52
+2016-11-23,Sweden,shirt,2
+2016-07-21,United States,shirt,38
+2016-03-20,Sweden,shirt,14
+2016-09-29,United States,shoe,33
+2016-07-24,Sweden,hat,49
+2016-05-23,France,shoe,14
+2016-12-11,Sweden,shoe,44
+2017-01-16,United States,hat,45
+2017-02-07,France,shoe,59
+2017-02-28,United States,shoe,91
+2016-10-15,France,shoe,54
+2016-12-21,Sweden,hat,17
+2016-11-01,United States,shirt,12
+2016-08-23,United States,jacket,55
+2016-05-24,United States,shirt,11
+2016-03-10,Sweden,hat,58
+2016-09-06,Sweden,shoe,31
+2017-02-11,Sweden,shoe,36
+2016-03-24,Sweden,shirt,70
+2016-08-06,United States,shirt,88
+2016-05-23,France,jacket,19
+2016-10-25,France,hat,82
+2017-01-09,Sweden,hat,38
+2016-08-29,Sweden,shirt,15
+2016-12-24,Sweden,hat,72
+2016-07-28,United States,shirt,41
+2016-07-25,France,shoe,65
+2017-01-23,France,jacket,4
+2016-09-18,France,shoe,100
+2016-10-23,France,shoe,38
+2016-12-17,France,shoe,70
+2016-06-11,Sweden,hat,16
+2016-05-03,United States,shirt,58
+2016-04-02,France,shirt,98
+2016-08-28,United States,shirt,63
+2016-08-23,Sweden,shirt,31
+2017-01-24,Sweden,shirt,96
+2016-03-26,United States,jacket,32
+2016-07-19,France,shirt,56
+2017-02-06,Sweden,shoe,12
+2016-07-18,France,jacket,15
+2016-06-12,France,jacket,80
+2017-01-31,United States,shoe,40
+2016-10-16,Sweden,jacket,70
+2016-06-13,Sweden,hat,89
+2016-09-04,Sweden,shoe,46
+2016-03-08,Sweden,hat,14
+2016-07-01,France,shoe,48
+2016-09-27,France,shirt,61
+2016-10-13,United States,shirt,67
+2016-04-27,Sweden,shoe,52
+2016-10-31,France,jacket,62
+2017-03-01,France,shoe,59
+2016-07-28,Sweden,shirt,73
+2016-08-05,France,shoe,66
+2017-01-31,Sweden,shoe,49
+2016-10-04,France,shoe,79
+2016-06-21,United States,jacket,84
+2016-08-13,Sweden,shirt,44
+2016-09-04,France,jacket,41
+2016-08-23,Sweden,shoe,69
+2016-07-02,Sweden,shoe,81
+2016-05-21,France,shoe,45
+2017-02-23,France,hat,11
+2017-02-04,France,shoe,49
+2016-12-30,France,jacket,48
+2016-11-15,United States,shirt,89
+2016-05-10,Sweden,shirt,17
+2016-09-09,United States,jacket,22
+2017-01-21,United States,shoe,31
+2017-03-06,France,hat,45
+2016-07-28,Sweden,shoe,6
+2016-03-27,Sweden,jacket,68
+2016-07-27,United States,jacket,40
+2016-09-10,France,shoe,81
+2016-05-13,France,shoe,36
+2016-09-07,Sweden,shoe,74
+2017-01-27,Sweden,hat,47
+2017-02-26,United States,hat,59
+2016-06-16,Sweden,shoe,27
+2016-11-08,Sweden,shoe,63
+2017-01-22,France,shoe,37
+2016-05-21,Sweden,shoe,53
+2016-07-16,France,hat,49
+2016-12-19,Sweden,jacket,45
+2016-05-04,United States,hat,97
+2016-05-15,France,shoe,28
+2016-06-17,France,shoe,9
+2016-12-02,France,jacket,72
+2016-12-04,Sweden,hat,96
+2016-07-31,France,shirt,23
+2017-01-04,United States,jacket,25
+2016-07-15,France,shirt,56
+2017-01-03,United States,shoe,38
+2016-08-05,United States,shirt,5
+2016-11-03,Sweden,shirt,24
+2017-03-03,Sweden,shirt,48
+2016-05-13,United States,hat,25
+2016-03-08,France,shoe,36
+2016-05-20,France,shirt,65
+2016-12-05,France,hat,43
+2016-09-20,France,shoe,66
+2017-02-13,Sweden,shirt,87
+2016-06-14,France,jacket,6
+2016-11-02,France,shirt,65
+2016-11-19,United States,shoe,34
+2016-06-30,United States,shirt,61
+2017-01-12,France,jacket,10
+2016-11-02,United States,hat,51
+2017-03-03,United States,jacket,32
+2016-07-18,France,shirt,12
+2016-12-07,France,shoe,93
+2016-09-05,France,shirt,70
+2016-07-28,Sweden,shoe,2
+2017-02-26,United States,hat,28
+2016-10-17,United States,hat,12
+2016-10-02,France,shirt,95
+2016-12-15,France,jacket,93
+2016-11-23,France,hat,32
+2016-12-27,Sweden,shoe,20
+2016-04-21,United States,shirt,10
+2016-07-07,France,shoe,88
+2016-12-03,United States,shoe,90
+2016-04-11,Sweden,shirt,51
+2017-03-01,Sweden,hat,45
+2016-04-01,United States,shirt,23
+2016-12-24,France,jacket,18
+2016-07-21,Sweden,shoe,74
+2016-03-20,Sweden,shirt,95
+2016-10-16,United States,jacket,100
+2017-02-14,France,jacket,52
+2017-02-04,Sweden,hat,33
+2016-08-29,France,shoe,93
+2016-07-24,Sweden,hat,62
+2016-06-14,Sweden,shoe,63
+2017-01-05,United States,shoe,88
+2016-05-17,France,hat,65
+2016-08-06,Sweden,shirt,99
+2016-08-15,United States,shoe,53
+2016-04-12,France,jacket,70
+2016-11-17,Sweden,hat,23
+2016-06-27,United States,hat,60
+2017-01-05,France,jacket,40
+2016-05-12,United States,hat,16
+2016-08-08,France,shoe,71
+2017-02-16,United States,hat,75
+2016-08-26,United States,hat,9
+2016-08-11,Sweden,jacket,83
+2016-09-01,United States,shoe,52
+2017-02-21,United States,shoe,36
+2016-04-17,United States,shoe,28
+2016-10-23,France,hat,56
+2016-12-10,Sweden,shirt,42
+2016-05-15,France,shoe,13
+2016-08-25,Sweden,jacket,81
+2017-01-09,Sweden,hat,46
+2016-08-01,France,shoe,17
+2017-02-02,France,jacket,92
+2016-04-08,France,jacket,6
+2016-12-08,France,shoe,88
+2016-06-05,Sweden,jacket,69
+2016-12-17,United States,jacket,37
+2017-02-06,United States,jacket,67
+2016-05-11,United States,jacket,87
+2017-01-25,United States,hat,97
+2016-06-05,France,shoe,62
+2016-08-01,France,shoe,83
+2017-01-07,Sweden,hat,14
+2016-09-10,France,jacket,68
+2016-10-04,United States,jacket,86
+2016-09-03,Sweden,shoe,6
+2016-08-30,United States,shirt,82
+2016-03-15,Sweden,jacket,36
+2016-11-04,Sweden,shoe,18
+2016-04-25,France,jacket,34
+2017-02-21,United States,shoe,34
+2016-07-15,United States,shirt,90
+2016-08-03,Sweden,shoe,25
+2017-02-12,France,jacket,61
+2016-11-20,France,shoe,60
+2016-07-22,France,shoe,39
+2016-12-06,United States,hat,72
+2016-07-11,United States,jacket,94
+2016-04-27,France,shirt,78
+2016-10-01,France,hat,3
+2016-08-17,Sweden,shoe,29
+2017-02-06,Sweden,shirt,38
+2016-03-28,Sweden,shirt,13
+2016-05-14,Sweden,shoe,26
+2016-12-27,Sweden,hat,86
+2016-04-28,Sweden,shirt,96
+2016-08-14,Sweden,shoe,9
+2017-02-12,France,shoe,20
+2016-10-19,Sweden,hat,12
+2016-10-01,United States,jacket,11
+2016-11-16,France,hat,38
+2016-05-15,France,shirt,58
+2016-08-20,France,shirt,92
+2016-07-18,United States,jacket,93
+2016-03-11,Sweden,shoe,62
+2016-03-17,France,shoe,88
+2016-07-19,United States,hat,71
+2016-12-03,United States,hat,21
+2016-12-10,France,hat,94
+2017-01-06,France,jacket,35
+2017-01-03,France,shirt,39
+2017-01-19,Sweden,hat,69
+2016-03-21,Sweden,shoe,3
+2016-04-02,United States,shirt,88
+2016-07-22,United States,shoe,20
+2016-03-17,Sweden,jacket,5
+2016-09-22,United States,hat,4
+2016-03-17,Sweden,hat,79
+2017-01-04,France,hat,6
+2016-08-06,Sweden,jacket,99
+2017-02-21,United States,shirt,16
+2016-10-28,France,hat,69
+2016-07-31,United States,shoe,60
+2016-07-17,France,shoe,96
+2017-01-04,United States,shirt,6
+2016-04-10,United States,hat,70
+2016-11-22,France,jacket,66
+2016-05-14,France,shirt,64
+2016-12-28,United States,jacket,59
+2016-12-26,Sweden,jacket,29
+2017-03-02,United States,hat,94
+2017-01-19,United States,jacket,94
+2016-10-13,France,shirt,55
+2016-06-14,Sweden,hat,48
+2016-11-17,Sweden,shoe,69
+2017-01-28,United States,hat,89
+2016-11-25,United States,shirt,9
+2016-04-25,United States,shirt,95
+2016-10-19,Sweden,jacket,76
+2016-11-12,Sweden,shoe,69
+2017-01-02,France,shoe,10
+2016-05-21,France,shoe,54
+2017-03-03,France,shirt,84
+2016-03-26,France,shoe,60
+2016-08-25,United States,hat,80
+2016-08-05,United States,shirt,25
+2016-06-10,France,hat,40
+2016-10-09,France,shirt,77
+2016-11-30,United States,shoe,18
+2016-10-06,United States,shirt,1
+2016-07-19,France,shirt,35
+2016-06-22,United States,shirt,1
+2017-01-12,Sweden,shirt,44
+2016-12-01,United States,shirt,41
+2016-03-16,France,hat,34
+2016-06-14,France,hat,83
+2017-01-22,Sweden,shoe,3
+2016-07-19,Sweden,hat,67
+2017-02-02,United States,shirt,15
+2016-11-22,France,shoe,71
+2016-03-29,France,shirt,84
+2017-03-02,Sweden,hat,13
+2016-08-26,United States,jacket,23
+2016-07-23,United States,jacket,62
+2016-08-06,Sweden,shirt,43
+2016-06-12,Sweden,shoe,55
+2016-06-13,Sweden,hat,59
+2016-11-09,United States,shoe,41
+2016-12-06,France,shoe,67
+2016-07-26,United States,jacket,9
+2016-12-10,France,shirt,6
+2016-09-25,Sweden,hat,88
+2016-07-30,United States,jacket,27
+2016-10-17,France,shirt,100
+2016-04-13,United States,shoe,75
+2016-03-08,United States,jacket,80
+2016-11-29,France,hat,8
+2017-01-27,Sweden,shoe,69
+2016-08-31,United States,hat,77
+2016-12-15,Sweden,jacket,100
+2016-08-02,France,hat,37
+2016-05-19,United States,shirt,86
+2016-06-29,Sweden,hat,95
+2016-10-30,United States,shoe,81
+2016-07-13,United States,hat,69
+2016-10-18,France,jacket,32
+2017-01-28,United States,shoe,42
+2016-05-24,France,shirt,2
+2016-05-12,France,jacket,9
+2016-06-16,France,jacket,49
+2016-12-01,France,jacket,9
+2016-10-09,France,jacket,46
+2016-12-13,France,shoe,79
+2016-09-12,Sweden,hat,6
+2016-04-20,Sweden,jacket,73
+2016-11-21,France,jacket,17
+2016-05-31,France,jacket,49
+2016-08-12,United States,shirt,28
+2017-01-15,United States,shirt,36
+2016-10-16,Sweden,shirt,7
+2016-06-30,United States,jacket,74
+2016-03-24,United States,shirt,67
+2017-02-19,Sweden,hat,4
+2016-11-25,Sweden,shoe,13
+2016-03-21,United States,shirt,68
+2016-10-07,France,shoe,30
+2016-04-25,France,shoe,17
+2016-09-06,France,shoe,100
+2016-06-01,United States,shirt,65
+2016-07-31,United States,shoe,29
+2016-11-18,United States,shoe,74
+2016-04-15,Sweden,shoe,70
+2017-02-15,Sweden,shoe,39
+2016-06-28,United States,jacket,46
+2017-02-12,France,jacket,5
+2016-04-14,Sweden,jacket,55
+2017-03-06,Sweden,shirt,64
+2016-08-04,France,shoe,24
+2016-04-01,France,jacket,79
+2016-12-27,United States,shoe,9
+2016-04-25,France,shirt,83
+2017-01-30,Sweden,jacket,38
+2016-09-26,United States,shoe,30
+2016-06-21,United States,shoe,74
+2016-12-10,United States,hat,16
+2016-11-17,United States,hat,75
+2016-08-24,Sweden,hat,76
+2017-02-03,United States,hat,31
+2017-02-23,Sweden,shirt,62
+2016-05-29,France,jacket,34
+2016-05-01,United States,jacket,35
+2016-06-30,Sweden,hat,75
+2016-10-02,Sweden,jacket,91
+2016-08-24,United States,hat,25
+2016-06-29,France,hat,17
+2016-11-14,France,jacket,85
+2016-04-01,Sweden,shoe,79
+2016-07-27,France,shirt,50
+2016-09-23,United States,shoe,8
+2016-06-09,Sweden,shirt,9
+2016-07-24,United States,shoe,23
+2017-01-07,France,hat,19
+2016-09-30,France,jacket,6
+2017-01-03,United States,jacket,99
+2016-07-12,United States,shirt,4
+2017-02-08,Sweden,hat,81
+2016-03-24,France,hat,67
+2016-12-06,Sweden,hat,19
+2016-11-05,France,jacket,48
+2017-01-30,United States,shoe,42
+2017-02-06,Sweden,shirt,45
+2016-05-27,United States,jacket,84
+2016-03-22,France,shoe,29
+2017-01-13,Sweden,jacket,18
+2017-02-23,Sweden,jacket,89
+2016-06-08,France,shirt,42
+2017-03-05,France,hat,34
+2016-10-21,United States,shirt,79
+2017-02-19,United States,hat,1
+2016-08-27,Sweden,shirt,28
+2016-09-08,United States,hat,46
+2016-12-03,France,shirt,47
+2016-08-19,United States,jacket,35
+2017-01-19,United States,jacket,4
+2016-09-02,Sweden,shirt,78
+2016-04-22,Sweden,hat,100
+2016-04-02,United States,shoe,77
+2016-09-08,Sweden,hat,84
+2016-08-24,Sweden,shoe,61
+2016-04-17,France,hat,33
+2017-01-11,Sweden,shirt,20
+2016-04-10,Sweden,jacket,14
+2016-07-06,Sweden,hat,23
+2017-02-21,France,shoe,58
+2016-05-10,France,shirt,40
+2016-04-10,Sweden,shoe,52
+2016-11-30,France,shirt,72
+2016-10-24,France,shoe,87
+2016-10-13,France,hat,88
+2016-07-27,France,hat,6
+2016-05-08,Sweden,hat,75
+2016-07-03,Sweden,hat,90
+2016-05-03,France,jacket,84
+2016-04-28,France,shirt,58
+2017-02-25,Sweden,shirt,83
+2017-01-12,France,shoe,24
+2016-09-03,France,shoe,39
+2016-06-08,France,shoe,83
+2016-11-21,France,shirt,90
+2016-03-30,France,jacket,35
+2016-11-02,France,shoe,11
+2016-10-05,France,shirt,37
+2016-04-27,France,hat,69
+2016-12-03,Sweden,hat,71
+2016-05-15,Sweden,shirt,36
+2017-03-03,United States,jacket,36
+2016-04-16,Sweden,hat,39
+2016-07-24,France,hat,10
+2016-03-09,France,jacket,26
+2016-10-09,Sweden,hat,68
+2016-08-29,United States,shirt,28
+2016-11-15,France,shoe,56
+2016-08-18,France,hat,50
+2016-03-28,Sweden,shirt,26
+2016-04-14,Sweden,shirt,75
+2016-05-01,United States,hat,99
+2016-11-26,United States,shirt,99
+2016-06-21,Sweden,jacket,76
+2017-03-06,Sweden,hat,61
+2017-01-11,France,jacket,12
+2016-03-09,Sweden,jacket,22
+2016-04-24,Sweden,hat,61
+2016-06-09,Sweden,jacket,3
+2016-10-20,France,hat,38
+2016-04-18,Sweden,hat,31
+2016-07-15,United States,shoe,3
+2016-07-09,France,shirt,27
+2016-06-17,Sweden,hat,78
+2016-12-01,United States,hat,12
+2016-04-27,France,shirt,52
+2016-12-26,France,hat,39
+2016-12-11,France,shirt,100
+2016-08-15,Sweden,shoe,28
+2016-09-27,United States,hat,45
+2016-08-12,Sweden,shirt,63
+2016-11-26,France,shirt,4
+2016-12-22,United States,jacket,62
+2016-07-29,France,shirt,50
+2016-09-22,United States,jacket,46
+2016-08-18,United States,jacket,89
+2016-05-14,United States,shoe,78
+2016-10-11,Sweden,shoe,6
+2016-10-09,France,shirt,45
+2017-01-25,Sweden,shoe,26
+2016-06-23,Sweden,hat,82
+2016-09-14,Sweden,jacket,55
+2016-03-31,France,shoe,4
+2016-07-05,Sweden,shoe,71
+2017-03-03,United States,hat,83
+2016-12-19,United States,shirt,44
+2016-10-29,Sweden,shirt,21
+2016-08-16,France,hat,20
+2016-04-01,United States,jacket,5
+2016-07-04,France,shoe,43
+2016-09-04,Sweden,hat,42
+2016-10-20,United States,shirt,12
+2016-07-21,United States,hat,93
+2016-08-06,France,shoe,72
+2017-01-26,Sweden,shirt,67
+2017-02-17,France,jacket,33
+2016-05-03,France,jacket,79
+2017-02-06,United States,jacket,42
+2016-07-20,France,hat,72
+2017-02-07,United States,shirt,15
+2016-10-13,Sweden,shoe,69
+2016-06-27,France,hat,59
+2016-06-19,Sweden,shirt,33
+2016-06-03,France,shirt,49
+2016-04-30,Sweden,shirt,16
+2016-09-10,United States,shoe,50
+2016-10-26,Sweden,shoe,38
+2016-11-26,Sweden,hat,3
+2016-07-31,United States,shoe,56
+2016-05-12,France,shoe,50
+2016-09-07,Sweden,jacket,98
+2016-03-15,Sweden,hat,25
+2016-07-06,United States,shirt,13
+2016-10-17,United States,shoe,4
+2016-08-10,United States,hat,74
+2016-08-23,Sweden,shoe,49
+2017-02-23,United States,shirt,56
+2016-05-28,Sweden,shirt,61
+2016-09-14,Sweden,shirt,75
+2017-01-09,France,shirt,7
+2016-10-02,France,jacket,86
+2016-03-21,France,shirt,31
+2016-04-28,United States,jacket,38
+2017-02-02,Sweden,shoe,39
+2016-06-01,United States,shirt,56
+2016-03-09,France,hat,56
+2016-12-09,France,jacket,43
+2016-04-17,Sweden,shoe,42
+2016-11-23,France,hat,60
+2016-08-11,United States,hat,15
+2016-07-27,Sweden,hat,57
+2017-01-13,United States,hat,59
+2016-08-31,United States,hat,9
+2016-06-19,France,jacket,38
+2016-10-06,Sweden,shirt,36
+2016-08-24,France,shoe,37
+2016-03-23,Sweden,shirt,10
+2016-07-05,Sweden,hat,62
+2016-03-16,France,hat,33
+2017-01-05,France,hat,98
+2016-12-08,France,hat,58
+2017-01-17,France,jacket,33
+2016-09-24,United States,jacket,59
+2016-08-01,Sweden,jacket,2
+2017-01-24,United States,shirt,77
+2016-08-13,United States,shirt,8
+2016-04-13,Sweden,jacket,45
+2016-11-22,United States,hat,53
+2016-11-05,United States,shoe,12
+2017-02-06,France,hat,22
+2016-10-07,United States,hat,45
+2016-03-31,Sweden,shirt,62
+2016-08-17,United States,jacket,81
+2016-09-27,Sweden,shoe,40
+2016-11-14,Sweden,shirt,22
+2016-05-27,Sweden,shoe,84
+2016-12-17,Sweden,jacket,1
+2016-03-11,France,shirt,67
+2016-09-05,France,shirt,61
+2016-11-18,United States,shirt,23
+2017-01-28,Sweden,shoe,10
+2016-07-26,United States,shoe,71
+2017-01-17,France,jacket,51
+2016-07-22,United States,shirt,98
+2017-02-22,France,hat,92
+2016-12-14,France,hat,1
+2016-04-23,France,shirt,38
+2016-04-06,France,hat,34
+2017-01-10,France,shoe,66
+2017-01-30,France,hat,74
+2016-10-27,Sweden,shoe,75
+2016-10-25,France,shoe,86
+2016-04-21,France,shoe,69
+2016-07-23,Sweden,shirt,37
+2016-04-09,United States,jacket,34
+2016-08-06,Sweden,shoe,3
+2017-01-12,Sweden,shirt,66
+2016-07-13,United States,hat,65
+2016-12-03,France,hat,44
+2016-07-19,United States,shoe,4
+2016-04-05,France,shoe,91
+2016-10-16,France,shirt,59
+2016-12-10,Sweden,shirt,51
+2016-12-03,Sweden,shirt,24
+2017-01-26,United States,jacket,44
+2016-12-14,France,shoe,16
+2016-10-22,Sweden,shoe,18
+2016-11-22,France,shirt,58
+2016-07-07,Sweden,shoe,30
+2016-06-28,United States,shirt,58
+2016-05-17,United States,jacket,80
+2016-04-12,France,jacket,34
+2016-07-11,United States,hat,63
+2016-06-01,United States,shoe,6
+2016-09-13,United States,hat,53
+2016-07-13,United States,shoe,30
+2016-05-11,France,jacket,93
+2016-03-16,France,jacket,86
+2016-10-10,France,shirt,52
+2017-02-12,Sweden,shoe,48
+2016-06-07,France,shoe,4
+2016-06-21,United States,shirt,64
+2016-12-18,United States,shoe,41
+2016-11-13,France,shoe,15
+2016-04-18,France,hat,22
+2016-08-16,France,hat,20
+2016-07-18,France,hat,23
+2016-08-19,United States,shoe,33
+2017-02-02,United States,jacket,80
+2016-04-06,Sweden,shirt,22
+2016-07-24,Sweden,jacket,28
+2017-02-07,France,hat,25
+2016-07-27,United States,shirt,90
+2016-04-29,Sweden,shirt,85
+2016-10-18,France,hat,25
+2016-11-25,United States,jacket,47
+2016-10-08,Sweden,jacket,8
+2016-03-15,Sweden,hat,70
+2016-10-11,France,shoe,66
+2016-07-17,United States,shirt,8
+2016-03-18,United States,shirt,25
+2016-03-31,Sweden,jacket,7
+2017-01-18,France,hat,98
+2016-05-26,France,shoe,75
+2016-03-18,Sweden,jacket,63
+2016-09-13,United States,hat,98
+2016-05-13,United States,shirt,16
+2016-09-01,United States,shirt,1
+2017-02-18,Sweden,shoe,15
+2016-06-03,Sweden,shirt,68
+2016-04-15,Sweden,shoe,68
+2016-05-03,France,jacket,13
+2016-11-18,Sweden,hat,9
+2016-07-24,United States,shirt,2
+2016-10-01,France,shirt,49
+2016-08-29,Sweden,hat,94
+2016-06-09,Sweden,shoe,49
+2016-12-23,Sweden,shoe,78
+2016-04-03,United States,jacket,100
+2017-02-23,France,shoe,18
+2017-02-13,Sweden,shoe,53
+2016-05-28,Sweden,jacket,58
+2016-12-31,United States,shoe,34
+2016-05-30,France,jacket,81
+2016-09-06,France,jacket,5
+2016-11-03,Sweden,jacket,72
+2016-04-20,France,shirt,51
+2016-09-22,France,hat,4
+2017-02-09,France,shirt,13
+2016-08-18,Sweden,shirt,40
+2017-01-28,Sweden,jacket,45
+2016-10-31,Sweden,shoe,81
+2016-11-27,France,shoe,95
+2016-06-03,Sweden,shirt,84
+2016-03-24,Sweden,shirt,58
+2016-09-29,Sweden,hat,38
+2016-12-29,Sweden,shirt,34
+2016-04-08,United States,shoe,83
+2016-07-22,France,jacket,55
+2016-12-11,Sweden,shoe,42
+2016-12-10,France,hat,15
+2016-07-17,Sweden,hat,35
+2016-03-20,France,hat,56
+2016-12-10,France,shoe,17
+2017-01-23,Sweden,hat,86
+2017-01-17,France,hat,94
+2016-12-03,United States,shirt,73
