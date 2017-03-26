@@ -1,0 +1,408 @@
+[
+    {
+        "id": "639c6812.89e148",
+        "type": "mqtt in",
+        "z": "ca6a07a0.7c1498",
+        "name": "",
+        "topic": "qliksense/realtime reload monitor/date count",
+        "qos": "2",
+        "broker": "e13e0186.5507b",
+        "x": 230,
+        "y": 140,
+        "wires": [
+            [
+                "37b7341d.367fbc"
+            ]
+        ]
+    },
+    {
+        "id": "e8868738.9be918",
+        "type": "mqtt in",
+        "z": "ca6a07a0.7c1498",
+        "name": "",
+        "topic": "qliksense/realtime reload monitor/date",
+        "qos": "2",
+        "broker": "e13e0186.5507b",
+        "x": 210,
+        "y": 180,
+        "wires": [
+            [
+                "a9106b4e.4499e8"
+            ]
+        ]
+    },
+    {
+        "id": "caee671c.b5d3a8",
+        "type": "mqtt in",
+        "z": "ca6a07a0.7c1498",
+        "name": "",
+        "topic": "qliksense/realtime reload monitor/date percent done",
+        "qos": "2",
+        "broker": "e13e0186.5507b",
+        "x": 250,
+        "y": 260,
+        "wires": [
+            [
+                "4c4cb256.7c70dc"
+            ]
+        ]
+    },
+    {
+        "id": "d8e309fa.df26e8",
+        "type": "mqtt in",
+        "z": "ca6a07a0.7c1498",
+        "name": "",
+        "topic": "qliksense/realtime reload monitor/country count",
+        "qos": "2",
+        "broker": "e13e0186.5507b",
+        "x": 240,
+        "y": 420,
+        "wires": [
+            [
+                "ee260ddb.bdb7c"
+            ]
+        ]
+    },
+    {
+        "id": "8deac434.7a3938",
+        "type": "mqtt in",
+        "z": "ca6a07a0.7c1498",
+        "name": "",
+        "topic": "qliksense/realtime reload monitor/country",
+        "qos": "2",
+        "broker": "e13e0186.5507b",
+        "x": 220,
+        "y": 460,
+        "wires": [
+            [
+                "a94b8a51.63a338"
+            ]
+        ]
+    },
+    {
+        "id": "3ab70af0.018b96",
+        "type": "mqtt in",
+        "z": "ca6a07a0.7c1498",
+        "name": "",
+        "topic": "qliksense/realtime reload monitor/country percent done",
+        "qos": "2",
+        "broker": "e13e0186.5507b",
+        "x": 260,
+        "y": 540,
+        "wires": [
+            [
+                "23888a53.7a4916"
+            ]
+        ]
+    },
+    {
+        "id": "1c684b20.075045",
+        "type": "comment",
+        "z": "ca6a07a0.7c1498",
+        "name": "Date topics",
+        "info": "",
+        "x": 130,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "4124b8c7.d21a28",
+        "type": "comment",
+        "z": "ca6a07a0.7c1498",
+        "name": "Country topics",
+        "info": "",
+        "x": 140,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "4c4cb256.7c70dc",
+        "type": "ui_gauge",
+        "z": "ca6a07a0.7c1498",
+        "name": "% done",
+        "group": "514f9109.b3a76",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "% done",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 680,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "37b7341d.367fbc",
+        "type": "ui_text",
+        "z": "ca6a07a0.7c1498",
+        "group": "514f9109.b3a76",
+        "order": 4,
+        "width": "3",
+        "height": "1",
+        "name": "",
+        "label": "of ",
+        "format": "{{msg.payload}}",
+        "layout": "row-right",
+        "x": 670,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "a9106b4e.4499e8",
+        "type": "ui_text",
+        "z": "ca6a07a0.7c1498",
+        "group": "514f9109.b3a76",
+        "order": 2,
+        "width": "6",
+        "height": "1",
+        "name": "",
+        "label": "Current date",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "x": 690,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "3e8c0e7.b4acdf2",
+        "type": "mqtt in",
+        "z": "ca6a07a0.7c1498",
+        "name": "",
+        "topic": "qliksense/realtime reload monitor/date counter",
+        "qos": "2",
+        "broker": "e13e0186.5507b",
+        "x": 240,
+        "y": 220,
+        "wires": [
+            [
+                "7af0ebff.170c24"
+            ]
+        ]
+    },
+    {
+        "id": "7af0ebff.170c24",
+        "type": "ui_text",
+        "z": "ca6a07a0.7c1498",
+        "group": "514f9109.b3a76",
+        "order": 3,
+        "width": "3",
+        "height": "1",
+        "name": "",
+        "label": "Date counter",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "x": 690,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "d3ab0937.93b908",
+        "type": "mqtt in",
+        "z": "ca6a07a0.7c1498",
+        "name": "",
+        "topic": "qliksense/realtime reload monitor/country counter",
+        "qos": "2",
+        "broker": "e13e0186.5507b",
+        "x": 250,
+        "y": 500,
+        "wires": [
+            [
+                "1c548843.8d08a8"
+            ]
+        ]
+    },
+    {
+        "id": "23888a53.7a4916",
+        "type": "ui_gauge",
+        "z": "ca6a07a0.7c1498",
+        "name": "% done",
+        "group": "e6a5496f.f94668",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "gtype": "gage",
+        "title": "% done",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 680,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "ee260ddb.bdb7c",
+        "type": "ui_text",
+        "z": "ca6a07a0.7c1498",
+        "group": "e6a5496f.f94668",
+        "order": 4,
+        "width": "3",
+        "height": "1",
+        "name": "",
+        "label": "of ",
+        "format": "{{msg.payload}}",
+        "layout": "row-right",
+        "x": 670,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "a94b8a51.63a338",
+        "type": "ui_text",
+        "z": "ca6a07a0.7c1498",
+        "group": "e6a5496f.f94668",
+        "order": 2,
+        "width": "6",
+        "height": "1",
+        "name": "",
+        "label": "Current country",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "x": 700,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "1c548843.8d08a8",
+        "type": "ui_text",
+        "z": "ca6a07a0.7c1498",
+        "group": "e6a5496f.f94668",
+        "order": 3,
+        "width": "3",
+        "height": "1",
+        "name": "",
+        "label": "Country counter",
+        "format": "{{msg.payload}}",
+        "layout": "row-spread",
+        "x": 700,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "d0bca9f6.4c7be8",
+        "type": "ui_chart",
+        "z": "ca6a07a0.7c1498",
+        "name": "",
+        "group": "e5ecc901.b6f038",
+        "order": 0,
+        "width": 0,
+        "height": 0,
+        "label": "Sales",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "Y-M-D",
+        "interpolate": "linear",
+        "nodata": "",
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": "1",
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "x": 680,
+        "y": 660,
+        "wires": [
+            [],
+            []
+        ]
+    },
+    {
+        "id": "1e4336c2.98d7c9",
+        "type": "mqtt in",
+        "z": "ca6a07a0.7c1498",
+        "name": "",
+        "topic": "qliksense/realtime reload monitor/sales",
+        "qos": "2",
+        "broker": "e13e0186.5507b",
+        "x": 210,
+        "y": 660,
+        "wires": [
+            [
+                "d0bca9f6.4c7be8"
+            ]
+        ]
+    },
+    {
+        "id": "e13e0186.5507b",
+        "type": "mqtt-broker",
+        "z": "",
+        "broker": "localhost",
+        "port": "1883",
+        "clientid": "",
+        "usetls": false,
+        "compatmode": true,
+        "keepalive": "60",
+        "cleansession": true,
+        "willTopic": "",
+        "willQos": "0",
+        "willPayload": "",
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthPayload": ""
+    },
+    {
+        "id": "514f9109.b3a76",
+        "type": "ui_group",
+        "z": "",
+        "name": "Date",
+        "tab": "78ed1a45.b64c74",
+        "order": 1,
+        "disp": true,
+        "width": "6"
+    },
+    {
+        "id": "e6a5496f.f94668",
+        "type": "ui_group",
+        "z": "",
+        "name": "Country",
+        "tab": "78ed1a45.b64c74",
+        "order": 2,
+        "disp": true,
+        "width": "6"
+    },
+    {
+        "id": "e5ecc901.b6f038",
+        "type": "ui_group",
+        "z": "",
+        "name": "Sales",
+        "tab": "78ed1a45.b64c74",
+        "disp": false,
+        "width": "12"
+    },
+    {
+        "id": "78ed1a45.b64c74",
+        "type": "ui_tab",
+        "z": "",
+        "name": "Sense reload monitor",
+        "icon": "dashboard",
+        "order": 1
+    }
+]
