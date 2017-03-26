@@ -7,3 +7,4 @@ Stripped version of [Butler](https://github.com/mountaindude/butler), only inclu
 
 
 
+More info at [Ptarmigan Labs](https://ptarmiganlabs.com/blog/2017/03/26/butler-mqtt-and-a-realtime-reload-dashboard-for-sense/).
